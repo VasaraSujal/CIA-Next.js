@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/mui/button/page": "app/mui/button/page.js",
+  "/mui/drawer/page": "app/mui/drawer/page.js",
+  "/mui/card/page": "app/mui/card/page.js"
+}
